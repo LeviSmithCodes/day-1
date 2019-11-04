@@ -1,0 +1,8 @@
+h1.text-red {
+  margin: 0;
+}
+
+.text-red {
+  color: red;
+  background-color: blue;
+}
